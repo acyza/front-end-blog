@@ -35,9 +35,7 @@ jobs:
           ref: main
           path: _post
       - name: test
-        uses: actions/download-artifact@v3
-        with:
-          name: test
+        run: ls -R
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
