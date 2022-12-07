@@ -9,4 +9,4 @@
 - [css](study/css/README.md) (长啥样?)
 - [javascript](study/javascript/README.md) (怎么用?)
 
-<small>注*&ensp;mdn文档作为参考用，不需要非得看明白</small>
+###### 注*&ensp;mdn文档作为参考用，不需要非得看明白
