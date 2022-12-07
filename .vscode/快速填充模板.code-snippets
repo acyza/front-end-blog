@@ -2,7 +2,7 @@
 	"mdn传送门": {
 		"scope": "markdown",
 		"prefix": "mdn",
-		"body": "[![mdn传送门](../../icon/mdn传送门.svg)](${0:https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/html})",
+		"body": "[![mdn%E4%BC%A0%E9%80%81%E9%97%A8](../../icon/mdn传送门.svg)](${0:https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/html})",
 		"description": "快速生成mdn传送门图标代码"
 	}
 }
