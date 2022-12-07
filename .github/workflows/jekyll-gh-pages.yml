@@ -35,7 +35,7 @@ jobs:
           ref: main
           path: cache
       - name: MoveDoc
-        run: mv main/* ./ -f
+        run: mv cache/* ./ -f
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
