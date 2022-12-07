@@ -1,9 +1,0 @@
-{
-  "[markdown]": {
-    "editor.suggest.preview": true,
-    "editor.quickSuggestions": {
-      "strings": "on",
-      "other": "on"
-    }
-  }
-}
