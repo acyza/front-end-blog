@@ -55,7 +55,7 @@ javascript负责告示浏览器你的页面怎么用
 >mdn文档 => [var](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/var)，[const](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/const)，[let](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let)
 
 >### javascript获取html元素的操作对象（dom） 
->关于dom? ... 瞅这 =>[![mdn%E4%BC%A0%E9%80%81%E9%97%A8](../../icon/mdn传送门.svg)](https://developer.mozilla.org/zh-CN/docs/Glossary/DOM)  
+>关于dom? ... 瞅这 ☛ [![mdn%E4%BC%A0%E9%80%81%E9%97%A8](../../icon/mdn传送门.svg)](https://developer.mozilla.org/zh-CN/docs/Glossary/DOM)  
 >
 >先给元素个id
 >```html
@@ -70,5 +70,5 @@ javascript负责告示浏览器你的页面怎么用
 >/**document.querySelectors可以选多个，返回的数组 */
 >const doms = document.querySelector("div")
 >```
->啥，你问啥是css选择器？瞅这 [css选择器](../css/css%E9%80%89%E6%8B%A9%E5%99%A8.md)
+>啥，你问啥是css选择器？瞅这 ☛ [css选择器](../css/css%E9%80%89%E6%8B%A9%E5%99%A8.md)
 >
