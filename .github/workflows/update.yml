@@ -6,6 +6,7 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - run: gh issue comment https://github.com/acyza/homePage/issues/1 --body "update"
+      - name: tigger
+        run: gh workflow run -R acyza/homePage tiggerUpdate.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
