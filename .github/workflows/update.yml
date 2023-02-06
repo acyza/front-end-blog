@@ -1,0 +1,11 @@
+name: update
+on:
+  push:
+    branches: ["main"]
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh issue comment https://github.com/acyza/homePage/issues/1 --body "update"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
